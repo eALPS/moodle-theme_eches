@@ -1,4 +1,4 @@
 moodle-theme_eches
 ==================
 
-eChesテーマ
+eChes用Moodleテーマ
