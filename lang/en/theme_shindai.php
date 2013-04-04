@@ -23,7 +23,7 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['pluginname'] = 'Shindai';
+$string['pluginname'] = 'eChes';
 $string['region-side-post'] = 'Right';
 $string['region-side-pre'] = 'Left';
-$string['choosereadme'] = 'This theme is Shindai Version.';
+$string['choosereadme'] = 'This theme is eChes Version.';

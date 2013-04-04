@@ -33,7 +33,7 @@ echo $OUTPUT->doctype() ?>
     <div id="page-header">
         <?php if ($hasheading) { ?>
         <h1 class="headermain">
-            <img height="50" style="vertical-align:middle;margin-right:5px;" src="<?php echo $CFG->wwwroot ?>/theme/shindai/pix/moodle_on_eches_logo.png" alt="sub logo">
+            <img height="50" style="vertical-align:middle;margin-right:5px;" src="<?php echo $CFG->wwwroot ?>/theme/eches/pix/moodle_on_eches_logo.png" alt="sub logo">
             <?php echo $PAGE->heading ?>
         </h1>
         <div class="headermenu"><?php
