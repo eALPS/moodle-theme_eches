@@ -29,7 +29,7 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$THEME->name = 'shindai';
+$THEME->name = 'eches';
 $THEME->parents = array('base');
 $THEME->sheets = array(
     'pagelayout',   /** Must come first: Page layout **/
